@@ -44,7 +44,7 @@ export default function ChatSetup() {
                         </Stack>
 
                         <Typography align="center" variant="h5" component="h5" margin={2} marginTop={6}>
-                            ChatIS is a Twitch chat overlay for streamers. Put your chat on screen!
+                            ItsChat is a Twitch chat overlay for streamers. Put your chat on screen!
                         </Typography>
                         <Typography align="center" variant="h5" component="h5" margin={2}>
                             Some features:
